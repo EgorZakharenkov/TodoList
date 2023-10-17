@@ -1,0 +1,23 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+  width: 400px;
+  height: 50px;
+  border: 1px solid black;
+  padding: 10px;
+}
+.list-item input {
+  border: none;
+  height: 40px;
+}
+.list-item .focus {
+  border: 1px solid black;
+}
+.list-item .icon {
+  width: 25px;
+  height: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */
